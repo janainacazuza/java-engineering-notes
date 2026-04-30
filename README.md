@@ -45,7 +45,7 @@ Maintained by [Janaína Cazuza](https://github.com/janainacazuza). Notes reflect
 
 The project follows a closed curatorial model to preserve editorial coherence. See [CONTRIBUTING.md](CONTRIBUTING.md) for community contribution channels.
 
-The designated technical reviewer is [Higor Cazuza](https://github.com/cazuzahigor), maintainer of the parallel Brazilian Portuguese vault at [`notas-engenharia-java-pt-br`](https://github.com/cazuzahigor/notas-engenharia-java-pt-br). Reviews are exchanged via issues in this repository.
+The designated technical reviewer is [Higor Cazuza](https://github.com/cazuzahigor). Reviews are exchanged via issues in this repository.
 
 ## License
 
