@@ -1,0 +1,5 @@
+blank_issues_enabled: false
+contact_links:
+  - name: Technical question about content
+    url: https://github.com/janainacazuza/java-engineering-notes/issues/new?template=technical-correction.md
+    about: Use this link to report a technical error or imprecision in an existing note.

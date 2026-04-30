@@ -1,0 +1,15 @@
+cff-version: 1.2.0
+title: "java-engineering-notes"
+message: "To cite this project, use the information below."
+type: dataset
+authors:
+  - given-names: Janaína
+    family-name: Cazuza
+    alias: janainacazuza
+    website: "https://github.com/janainacazuza"
+repository-code: "https://github.com/janainacazuza/java-engineering-notes"
+license: CC-BY-SA-4.0
+abstract: >
+  Technical notes on Java software engineering,
+  organized by the criterion of direct impact on professional practice.
+  Systematic coverage of Java 21 (LTS) and Java 25 (LTS).
