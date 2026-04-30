@@ -8,7 +8,7 @@ This project follows a single-maintainer model with a designated technical revie
 Responsible for editorial, structural, and governance decisions. Final authority over what enters the vault. Sole holder of pull request rights.
 
 **Designated reviewer:** Higor Cazuza ([@cazuzahigor](https://github.com/cazuzahigor))
-Responsible for technical review of notes. Reviews are exchanged exclusively via issues opened in this repository. May approve notes for `status: reviewed` through review feedback that the maintainer integrates into the vault. Has no pull request rights and no authority over structural or governance decisions.
+Responsible for technical review of notes. Reviews are exchanged exclusively via issues opened in this repository. May approve notes for `status: reviewed` through review feedback that the maintainer integrates into the vault. Has no pull request rights and no authority over structural or governance decisions without alignment with the maintainer.
 
 ## Decisions
 
